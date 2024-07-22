@@ -1,1 +1,2 @@
-
+HR Analysis Dashboard which dives into the world of HR analysis. This dashboard explores the reasons behind attrition in a company, uncovering insights that can help organizations retain top talent.
+With interactive visualizations, I analyzed the factors contributing to attrition, including Attrition by education,Attrition by age,Attrion by Salary Slab,Attrion by year at Company,Attrion by Job Role. The findings reveal Total Count of Employee,Attrion Count and Rate,Average Age, Average Salary,Average Year.
